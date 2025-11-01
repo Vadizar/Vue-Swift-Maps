@@ -1,0 +1,21 @@
+# IDE
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Vue
+node_modules/
+dist/
+
+# Swift/Xcode
+*.xcuserstate
+xcuserdata/
+DerivedData/
+build/
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+.swiftpm/
+.build/
